@@ -4,7 +4,7 @@
 My specialisation is mostly theoretical nuclear & particle physics.
 However, I also know a great deal about Linux and Cybersecurity.
 
-## 🔭 I’m currently working on
+## 🛠️ Ongoing project(s)
 - *Kurohitsugi*: Linux security tool for system lockdown
 
 ### 🔭 Educational background
@@ -24,11 +24,6 @@ However, I also know a great deal about Linux and Cybersecurity.
 - Docker
 - ROOT (in C++ framework)
 - Rust (beginner)
-
-### 📖 Languages
-- 🇬🇧 English
-- 🇷🇺 Russian (beginner, learning)
-- 🇯🇵 Japanese (beginner, learning)
 
 ### 📡 Research Interests
 - Lattice Field Theories
