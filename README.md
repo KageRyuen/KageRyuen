@@ -1,16 +1,51 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**KageRyuen/KageRyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About me
+My specialisation is mostly theoretical nuclear & particle physics.
+However, I also know a great deal about Linux and Cybersecurity.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- *Kurohitsugi*: Linux security tool for system lockdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Educational background
+- BSc in Physics
+- MSc in Physics
+- PhD in Physics (ongoing)
+
+### 💾 Technical Skills
+- Bash
+- C/C++
+- Python
+- OpenCL (beginner)
+- LaTeX
+- [Pythia8](https://pythia.org/)
+- [Rivet](https://rivet.hepforge.org/)
+- [Professor](https://professor.hepforge.org/)
+- Docker
+- ROOT (in C++ framework)
+- Rust (beginner)
+
+### 📖 Languages
+- 🇬🇧 English
+- 🇷🇺 Russian (beginner, learning)
+- 🇯🇵 Japanese (beginner, learning)
+
+### 📡 Research Interests
+- Lattice Field Theories
+- CFTs and Near-Conformal Dynamics
+- Quantum Field Theories (QED, QCD)
+- Topological Quantum Field Theories
+- Strong Field QED
+- Non-Abelian Gauge Theories
+- Effective Field Theories (e.g. ChPT, dChPT)
+- Abelian Gauge Theories
+- Renormalizability of QFTs
+- Beyond-Standard Model theories (e.g. composite Higgs, dark sectors)
+- String theory & M-theory
+- Standard Model theory
+- Exactly Solvable Quantum Systems
+- Heavy Ion Physics
+- Monte Carlo event generators
+
+### 🔰 Miscellaneous
+- 🛡️ Relevant hobby: Cybersecurity, Linux system security, cryptography
