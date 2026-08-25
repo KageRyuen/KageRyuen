@@ -1,11 +1,8 @@
 # Welcome 👋
 
 ### 🌱 About me
-My specialisation is mostly theoretical nuclear & particle physics.
+My specialisation is mostly theoretical particle & nuclear physics.
 However, I also know Linux and some Cybersecurity.
-
-### 🛠️ Ongoing project(s)
-- *Kurohitsugi*: Linux security tool for system lockdown
 
 ### 🔭 Educational background
 - BSc in Physics
